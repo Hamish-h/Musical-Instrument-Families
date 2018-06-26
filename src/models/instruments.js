@@ -4,7 +4,9 @@ const Instruments = function(instrumentFamilies) {
   this.instrumentFamilies = instrumentFamilies;
 };
 
+Instruments.prototype.bindEvents = function () {
 
+};
 
 
 
