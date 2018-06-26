@@ -1,0 +1,21 @@
+{
+  "name": "hw_pubsub_webpack_instruments_start",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "webpack": "^4.12.1",
+    "webpack-cli": "^3.0.8"
+  },
+  "description": ""
+}
